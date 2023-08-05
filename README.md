@@ -9,7 +9,7 @@ Potential Improvements
 Contributing
 License
 
-****Features****
+<H1>Features</H1>
 
 **Client**
 AES Encryption: Securely encrypts messages using the AESLib library before sending.
